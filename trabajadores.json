@@ -1,0 +1,65 @@
+[
+    {
+        "_id": 1311,
+        "Nombre": "C Coulomb",
+        "Tarifa_Hr": 15.50,
+        "Tipo_de_Oficio": "Electricista",
+        "Supervisor":[
+            {"Trabajadores_id":1311}
+        ]
+    },
+    {
+        "_id": 1520,
+        "Nombre": "H Rickover",
+        "Tarifa_Hr": 11.75,
+        "Tipo_de_Oficio": "Fontanero",
+        "Supervisor":[
+            {"Trabajadores_id":1520}
+        ]
+    },
+    {
+        "_id": 2920,
+        "Nombre": "R Garret",
+        "Tarifa_Hr": 10.00,
+        "Tipo_de_Oficio": "Albañil",
+        "Supervisor":[
+            {"Trabajadores_id":2920}
+        ] 
+    },
+    {
+        "_id": 3231,
+        "Nombre": "P Mason",
+        "Tarifa_Hr": 17.40,
+        "Tipo_de_Oficio": "Carpintero",
+        "Supervisor":[
+            {"Trabajadores_id": 3231}
+        ]
+    },
+    {
+        "_id": 1235,
+        "Nombre": "M Faraday",
+        "Tarifa_Hr": 12.50,
+        "Tipo_de_Oficio": "Electricista",
+        "Supervisor":[
+            {"Trabajadores_id": 1311}
+        ]
+    },
+    {
+        "_id": 1412,
+        "Nombre": "C Nemo",
+        "Tarifa_Hr": 13.75,
+        "Tipo_de_Oficio": "Fontanero",
+        "Supervisor":[
+            {"Trabajadores_id": 1520}
+        ]
+    },
+    {
+        "_id": 3001,
+        "Nombre": "J Barrister",
+        "Tarifa_Hr": 8.20,
+        "Tipo_de_Oficio": "Carpintero",
+        "Supervisor":[
+            {"Trabajadores_id": 3231}
+        ]
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "_id": 111,
+        "Direccion": "1213 Aspen",
+        "Tipo": "Oficina",
+        "Nivel_Calidad": 3,
+        "Categoria": 1
+    },
+    {
+        "_id": 210,
+        "Direccion": "1011 Birch",
+        "Tipo": "Oficina",
+        "Nivel_Calidad": 3,
+        "Categoria": 1
+    },
+    {
+        "_id": 312,
+        "Direccion": "123 Elm",
+        "Tipo": "Oficina",
+        "Nivel_Calidad": 2,
+        "Categoria": 2
+    },
+    {
+        "_id": 435,
+        "Direccion": "456 Maple",
+        "Tipo": "Comercio",
+        "Nivel_Calidad": 1,
+        "Categoria": 1
+    },
+    {
+        "_id": 460,
+        "Direccion": "1415 Beech",
+        "Tipo": "Almacen",
+        "Nivel_Calidad": 3,
+        "Categoria": 3
+    },
+    {
+        "_id": 515,
+        "Direccion": "789 Oak",
+        "Tipo": "Residencia",
+        "Nivel_Calidad": 3,
+        "Categoria": 1
+    }
+]
